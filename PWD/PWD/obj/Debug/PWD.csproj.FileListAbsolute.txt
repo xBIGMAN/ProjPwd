@@ -1,0 +1,3 @@
+c:\users\user\documents\visual studio 2012\Projects\PWD\PWD\bin\Debug\PWD.exe.config
+D:\Project\my\Project_X\proj_pwd\PWD\PWD\bin\Debug\PWD.exe.config
+W:\proj_pwd\PWD\PWD\bin\Debug\PWD.exe.config
